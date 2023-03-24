@@ -3,21 +3,20 @@
   <!-- <a href="https://github.com/ayush-lal/{repo_name}">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
-  <h3 align="center">PROJECT_TITLE</h3>
-  <p align="center">PROJECT_SYNOPSIS</p>
+  <h3 align="center">Astro Crash Course</h3>
 </div>
 
 <div align="center">
-<a href="https://github.com/ayush-lal/blank-canvas/graphs/contributors">
+<a href="https://github.com/ayush-lal/astro-crash-course/graphs/contributors">
 <img src="https://img.shields.io/github/contributors/ayush-lal/ayush-lal.svg?style=for-the-badge">
 </a>
-<a href="https://github.com/ayush-lal/blank-canvas/network/members">
+<a href="https://github.com/ayush-lal/astro-crash-course/network/members">
 <img src="https://img.shields.io/github/forks/ayush-lal/ayush-lal.svg?style=for-the-badge">
 </a>
-<a href="https://github.com/ayush-lal/blank-canvas/stargazers">
+<a href="https://github.com/ayush-lal/astro-crash-course/stargazers">
 <img src="https://img.shields.io/github/stars/ayush-lal/ayush-lal.svg?style=for-the-badge">
 </a>
-<a href="https://github.com/ayush-lal/blank-canvas/issues">
+<a href="https://github.com/ayush-lal/astro-crash-course/issues">
 <img src="https://img.shields.io/github/issues/ayush-lal/ayush-lal.svg?style=for-the-badge">
 </a>
 </div>
@@ -91,7 +90,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgments
 
-- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+- [Brad Traversy's Youtube Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
