@@ -1,8 +1,5 @@
 <!-- HEADER -->
 <div align="center">
-  <!-- <a href="https://github.com/ayush-lal/{repo_name}">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
   <h3 align="center">Astro Crash Course</h3>
 </div>
 
@@ -25,47 +22,40 @@
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Following [Brad Traversy's Youtube Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs) on Astro to get a better practical understanding.
+
+<img src="src/assets/images/screen.png">
 
 ### Tech Stack
 
-[![Next][next.js]][next-url] [![React][react.js]][react-url] [![Vue][vue.js]][vue-url] [![Angular][angular.io]][angular-url] [![Svelte][svelte.dev]][svelte-url] [![Laravel][laravel.com]][laravel-url] [![Bootstrap][bootstrap.com]][bootstrap-url]
+- Astro
 
 ## Getting Started
 
-### Dependencies
-
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-
-```sh
-# NPM
-npm install npm@latest -g
-```
-
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
+Clone the repo
+
+```sh
+git clone https://github.com/ayush-lal/astro-crash-course.git
+```
+
+Navigate to the root of the repo
+
+```sh
+npm install
+```
 
 ### Usage
 
-- How to run the program
-- Step-by-step bullets
-
-```
-code blocks for commands
-```
+| Command                | Action                                                         |
+| :--------------------- | :------------------------------------------------------------- |
+| `npm install`          | Installs dependencies                                          |
+| `npm run dev`          | Starts local dev server at `localhost:3000/astro-crash-course` |
+| `npm run build`        | Build your production site to `./dist/`                        |
+| `npm run preview`      | Preview your build locally, before deploying                   |
+| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check`               |
+| `npm run astro --help` | Get help using the Astro CLI                                   |
 
 ## Contributing
 
@@ -91,21 +81,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Acknowledgments
 
 - [Brad Traversy's Youtube Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[product-screenshot]: images/screenshot.png
-[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[next-url]: https://nextjs.org/
-[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-url]: https://reactjs.org/
-[vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[vue-url]: https://vuejs.org/
-[angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[angular-url]: https://angular.io/
-[svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[svelte-url]: https://svelte.dev/
-[laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[laravel-url]: https://laravel.com
-[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[bootstrap-url]: https://getbootstrap.com
