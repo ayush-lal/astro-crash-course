@@ -5,15 +5,15 @@ import logo from "../assets/images/logo.svg";
 <header class="header">
   <div class="container">
     <div class="logo">
-      <a href="/">
+      <a href={`${import.meta.env.BASE_URL}`}>
         <img src={logo} alt="" />
       </a>
     </div>
     <nav>
       <ul>
-        <li><a href={`${import.meta.env.BASE_URL}/`}>Home</a></li>
-        <li><a href={`${import.meta.env.BASE_URL}/about`}>About</a></li>
-        <li><a href={`${import.meta.env.BASE_URL}/blog`}>Blog</a></li>
+        <li><a href={`${import.meta.env.BASE_URL}`}>Home</a></li>
+        <li><a href={`${import.meta.env.BASE_URL}about`}>About</a></li>
+        <li><a href={`${import.meta.env.BASE_URL}blog`}>Blog</a></li>
       </ul>
     </nav>
   </div>
