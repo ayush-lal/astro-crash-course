@@ -6,4 +6,5 @@ import react from "@astrojs/react";
 export default defineConfig({
   site: "https://github.com/ayush-lal",
   base: "/astro-crash-course",
+  integrations: [react()],
 });
